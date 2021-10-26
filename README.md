@@ -1,7 +1,7 @@
 # REST_API
 REST API using Python Flask.
 
-This API shows how to do the main CRUD oparations uing Flask.
+Thi API shows how to do the main CRUD operations using Python Flask.
 
 ..........
 
@@ -10,4 +10,4 @@ This API shows how to do the main CRUD oparations uing Flask.
 
 ## Languages / Covered topics
 + Flask, Python
-+ LEARN: Postman
++ LEARN: CRUD operations(performed with a database), Postman
