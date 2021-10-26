@@ -1,6 +1,7 @@
 # REST_API
-REST API using Python Flask
+REST API using Python Flask.
 
+This API shows how to do the main CRUD oparations uing Flask.
 
 ..........
 
